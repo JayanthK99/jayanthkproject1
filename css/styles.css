@@ -1,0 +1,73 @@
+
+  /*body*/
+
+body{
+
+  font-family:'Montserrat', sans-serif;
+    text-align: center;
+}
+
+
+  /*top container*/
+
+.top-cotainer{
+  width: 100%;
+  position: fixed;
+  margin-right:auto;
+  margin-left: auto;
+}
+
+
+.carousel-indicator{
+margin-top: 50px;
+}
+
+.lorem-ipsum{
+  margin-bottom: 5%;
+}
+
+
+/*testimonials*/
+
+
+#testimonials{
+  text-align: center;
+  background-color: #85B3D1FF;
+  padding: 2.5% 20% 10% 20%;
+}
+
+
+@media (max-width:800px) {
+
+  .carousel-control-next{
+    margin-top: 150px;
+  }
+  .carousel-control-prev{
+    margin-top: 150px;
+  }
+}
+
+
+/*cardings*/
+
+#cardings{
+padding: 5% 10% 5% 10%;
+}
+
+.card-column{
+  text-align: center;
+}
+
+.card{
+  margin-top: 10%;
+}
+
+
+/*footer*/
+
+#footer{
+  text-align: center;
+  background-color: #B3C7DC6F;
+  padding-bottom: 1.5%;
+  padding-top: 1%;
+}
